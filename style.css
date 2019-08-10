@@ -1,7 +1,9 @@
 #ilia1 
 {width: 100px;
 height: 100px;
-border: 2px solid #025378;
+border-style: solid;
+border-width: 2px;
+border-color: #025378;
 -moz-transform:rotate(-6deg);
 -webkit-transform:rotate(-6deg);}
 
